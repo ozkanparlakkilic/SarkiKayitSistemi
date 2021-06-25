@@ -1,0 +1,52 @@
+﻿@model AlbumViewModel
+
+@{ ViewBag.Title = "title";
+    Layout = "_Layout"; }
+
+<h1>Album</h1>
+
+
+<table class="table table-responsive">
+    <thead class="font-weight-bold">
+        <tr>
+            <td>Album Id</td>
+            <td>Album Song Name</td>
+            <td>Album Album Name</td>
+            <td>Album Release Year</td>
+            <td>Album Singer</td>
+            <td>Album Type</td>
+            <td>Edit</td>
+        </tr>
+    </thead>
+    @foreach (var Album in Model.Albums)
+    {
+<tr>
+    <td>@Album.Id</td>
+    <td>@Album.SongName</td>
+    <td>@Album.AlbumName</td>
+    <td>@Album.ReleaseYear</td>
+    <td>@Album.Singer</td>
+    <td>@Album.Type</td>
+    <td>
+
+        <form asp-action="Delete" method="post">
+            <a asp-action="Update" class="btn btn-sm btn-warning"
+               asp-route-albumId="@Album.Id">
+                Update
+            </a>
+            <input type="hidden" name="AlbumId" value="@Album.Id" />
+            <button type="submit" class="btn btn-danger btn-sm">
+                Delete
+            </button>
+        </form>
+    </td>
+
+</tr>
+}
+
+
+</table>
+
+<div class="text-center">
+    <a asp-action="Add" class="btn btn-primary float-left">Add Product</a>
+</div>

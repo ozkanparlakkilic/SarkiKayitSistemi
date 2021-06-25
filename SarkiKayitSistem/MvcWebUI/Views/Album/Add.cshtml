@@ -1,0 +1,42 @@
+﻿@model AlbumViewModel
+
+@{ ViewBag.Title = "title";
+    Layout = "_Layout"; }
+
+<h1>Add Album</h1>
+
+
+<form asp-action="Add">
+
+    <div class="form-group">
+        <label for="Song name">Şarkı İsmi</label>
+        <input type="text" class="form-control" asp-for="Album.SongName" id="Song name" placeholder="Enter Song Name" required="Zorunlu Alan">
+    </div>
+    <div class="form-group">
+
+        <label for="Album name">Albüm İsmi</label>
+        <input type="text" class="form-control" asp-for="Album.AlbumName" id="Album name" placeholder="Enter Album Name">
+    </div>
+    <div class="form-group">
+        <label for="Release Year">Çıkış Yılı</label>
+        <input type="text" class="form-control" asp-for="Album.ReleaseYear" id="Release Year" placeholder="Enter Release Year">
+    </div>
+    <div class="form-group">
+        <label for="Singer name">Şarkıcı İsmi</label>
+        <input type="text" class="form-control" asp-for="Album.Singer" id="Singer name" placeholder="Enter Singer Name" required="Zorunlu Alan">
+    </div>
+    <div class="form-group">
+        <label for="Type">Tür</label>
+        <select multiple class="form-control" id="Type" asp-for="Album.Type">
+            <option>Caz</option>
+            <option>Pop</option>
+            <option>Hip Hop</option>
+            <option>Rock</option>
+        </select>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Submit</button>
+
+    <a type="button" asp-action="Index" class="btn btn-primary">Cancel</a>
+
+</form>
