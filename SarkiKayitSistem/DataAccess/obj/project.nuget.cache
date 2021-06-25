@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "H6RxQwRLsOsGVpu6mTxuaNkXSXXoHK4e0/APcna1X6+XwvNOYazmVRUKEsDz1/z03jV+VS/L7D/UkMF/b4EXFg==",
+  "dgSpecHash": "Kfw1Z18/gHz5URi3Yi/1wntwjaM7LniY7NzGjMU24ihqmXvLYKShUUN5VLOIe0prPJ4wIfOEF0Gymedxf6PQQg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\OzkanParlakkilic\\Desktop\\SarkiKayitSistem\\SarkiKayitSistem\\DataAccess\\DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\OzkanParlakkilic\\Desktop\\Dosyalarım\\SarkiKayitSistem\\SarkiKayitSistem\\DataAccess\\DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\OzkanParlakkilic\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\OzkanParlakkilic\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

@@ -5726,11 +5726,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\OzkanParlakkilic\\Desktop\\SarkiKayitSistem\\SarkiKayitSistem\\Entities\\Entities.csproj",
+      "projectUniqueName": "C:\\Users\\OzkanParlakkilic\\Desktop\\Dosyalarım\\SarkiKayitSistem\\SarkiKayitSistem\\Entities\\Entities.csproj",
       "projectName": "Entities",
-      "projectPath": "C:\\Users\\OzkanParlakkilic\\Desktop\\SarkiKayitSistem\\SarkiKayitSistem\\Entities\\Entities.csproj",
+      "projectPath": "C:\\Users\\OzkanParlakkilic\\Desktop\\Dosyalarım\\SarkiKayitSistem\\SarkiKayitSistem\\Entities\\Entities.csproj",
       "packagesPath": "C:\\Users\\OzkanParlakkilic\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\OzkanParlakkilic\\Desktop\\SarkiKayitSistem\\SarkiKayitSistem\\Entities\\obj\\",
+      "outputPath": "C:\\Users\\OzkanParlakkilic\\Desktop\\Dosyalarım\\SarkiKayitSistem\\SarkiKayitSistem\\Entities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\ides\\DevExpress\\Components\\Offline Packages"
@@ -5752,8 +5752,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\OzkanParlakkilic\\Desktop\\SarkiKayitSistem\\SarkiKayitSistem\\Core\\Core.csproj": {
-              "projectPath": "C:\\Users\\OzkanParlakkilic\\Desktop\\SarkiKayitSistem\\SarkiKayitSistem\\Core\\Core.csproj"
+            "C:\\Users\\OzkanParlakkilic\\Desktop\\Dosyalarım\\SarkiKayitSistem\\SarkiKayitSistem\\Core\\Core.csproj": {
+              "projectPath": "C:\\Users\\OzkanParlakkilic\\Desktop\\Dosyalarım\\SarkiKayitSistem\\SarkiKayitSistem\\Core\\Core.csproj"
             }
           }
         }

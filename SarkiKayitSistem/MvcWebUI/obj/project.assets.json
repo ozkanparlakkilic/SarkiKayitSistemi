@@ -8608,11 +8608,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\OzkanParlakkilic\\Desktop\\SarkiKayitSistem\\SarkiKayitSistem\\MvcWebUI\\MvcWebUI.csproj",
+      "projectUniqueName": "C:\\Users\\OzkanParlakkilic\\Desktop\\Dosyalarım\\SarkiKayitSistem\\SarkiKayitSistem\\MvcWebUI\\MvcWebUI.csproj",
       "projectName": "MvcWebUI",
-      "projectPath": "C:\\Users\\OzkanParlakkilic\\Desktop\\SarkiKayitSistem\\SarkiKayitSistem\\MvcWebUI\\MvcWebUI.csproj",
+      "projectPath": "C:\\Users\\OzkanParlakkilic\\Desktop\\Dosyalarım\\SarkiKayitSistem\\SarkiKayitSistem\\MvcWebUI\\MvcWebUI.csproj",
       "packagesPath": "C:\\Users\\OzkanParlakkilic\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\OzkanParlakkilic\\Desktop\\SarkiKayitSistem\\SarkiKayitSistem\\MvcWebUI\\obj\\",
+      "outputPath": "C:\\Users\\OzkanParlakkilic\\Desktop\\Dosyalarım\\SarkiKayitSistem\\SarkiKayitSistem\\MvcWebUI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\ides\\DevExpress\\Components\\Offline Packages"
@@ -8634,20 +8634,20 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\OzkanParlakkilic\\Desktop\\SarkiKayitSistem\\SarkiKayitSistem\\Business\\Business.csproj": {
-              "projectPath": "C:\\Users\\OzkanParlakkilic\\Desktop\\SarkiKayitSistem\\SarkiKayitSistem\\Business\\Business.csproj"
+            "C:\\Users\\OzkanParlakkilic\\Desktop\\Dosyalarım\\SarkiKayitSistem\\SarkiKayitSistem\\Business\\Business.csproj": {
+              "projectPath": "C:\\Users\\OzkanParlakkilic\\Desktop\\Dosyalarım\\SarkiKayitSistem\\SarkiKayitSistem\\Business\\Business.csproj"
             },
-            "C:\\Users\\OzkanParlakkilic\\Desktop\\SarkiKayitSistem\\SarkiKayitSistem\\Core\\Core.csproj": {
-              "projectPath": "C:\\Users\\OzkanParlakkilic\\Desktop\\SarkiKayitSistem\\SarkiKayitSistem\\Core\\Core.csproj"
+            "C:\\Users\\OzkanParlakkilic\\Desktop\\Dosyalarım\\SarkiKayitSistem\\SarkiKayitSistem\\Core\\Core.csproj": {
+              "projectPath": "C:\\Users\\OzkanParlakkilic\\Desktop\\Dosyalarım\\SarkiKayitSistem\\SarkiKayitSistem\\Core\\Core.csproj"
             },
-            "C:\\Users\\OzkanParlakkilic\\Desktop\\SarkiKayitSistem\\SarkiKayitSistem\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "C:\\Users\\OzkanParlakkilic\\Desktop\\SarkiKayitSistem\\SarkiKayitSistem\\DataAccess\\DataAccess.csproj"
+            "C:\\Users\\OzkanParlakkilic\\Desktop\\Dosyalarım\\SarkiKayitSistem\\SarkiKayitSistem\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "C:\\Users\\OzkanParlakkilic\\Desktop\\Dosyalarım\\SarkiKayitSistem\\SarkiKayitSistem\\DataAccess\\DataAccess.csproj"
             },
-            "C:\\Users\\OzkanParlakkilic\\Desktop\\SarkiKayitSistem\\SarkiKayitSistem\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\OzkanParlakkilic\\Desktop\\SarkiKayitSistem\\SarkiKayitSistem\\Entities\\Entities.csproj"
+            "C:\\Users\\OzkanParlakkilic\\Desktop\\Dosyalarım\\SarkiKayitSistem\\SarkiKayitSistem\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\OzkanParlakkilic\\Desktop\\Dosyalarım\\SarkiKayitSistem\\SarkiKayitSistem\\Entities\\Entities.csproj"
             },
-            "C:\\Users\\OzkanParlakkilic\\Desktop\\SarkiKayitSistem\\SarkiKayitSistem\\WebAPI\\WebAPI.csproj": {
-              "projectPath": "C:\\Users\\OzkanParlakkilic\\Desktop\\SarkiKayitSistem\\SarkiKayitSistem\\WebAPI\\WebAPI.csproj"
+            "C:\\Users\\OzkanParlakkilic\\Desktop\\Dosyalarım\\SarkiKayitSistem\\SarkiKayitSistem\\WebAPI\\WebAPI.csproj": {
+              "projectPath": "C:\\Users\\OzkanParlakkilic\\Desktop\\Dosyalarım\\SarkiKayitSistem\\SarkiKayitSistem\\WebAPI\\WebAPI.csproj"
             }
           }
         }

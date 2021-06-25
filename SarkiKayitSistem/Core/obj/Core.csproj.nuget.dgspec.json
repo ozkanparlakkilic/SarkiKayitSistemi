@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\OzkanParlakkilic\\Desktop\\SarkiKayitSistem\\SarkiKayitSistem\\Core\\Core.csproj": {}
+    "C:\\Users\\OzkanParlakkilic\\Desktop\\Dosyalarım\\SarkiKayitSistem\\SarkiKayitSistem\\Core\\Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\OzkanParlakkilic\\Desktop\\SarkiKayitSistem\\SarkiKayitSistem\\Core\\Core.csproj": {
+    "C:\\Users\\OzkanParlakkilic\\Desktop\\Dosyalarım\\SarkiKayitSistem\\SarkiKayitSistem\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\OzkanParlakkilic\\Desktop\\SarkiKayitSistem\\SarkiKayitSistem\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\OzkanParlakkilic\\Desktop\\Dosyalarım\\SarkiKayitSistem\\SarkiKayitSistem\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\OzkanParlakkilic\\Desktop\\SarkiKayitSistem\\SarkiKayitSistem\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\OzkanParlakkilic\\Desktop\\Dosyalarım\\SarkiKayitSistem\\SarkiKayitSistem\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\OzkanParlakkilic\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\OzkanParlakkilic\\Desktop\\SarkiKayitSistem\\SarkiKayitSistem\\Core\\obj\\",
+        "outputPath": "C:\\Users\\OzkanParlakkilic\\Desktop\\Dosyalarım\\SarkiKayitSistem\\SarkiKayitSistem\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\ides\\DevExpress\\Components\\Offline Packages"
