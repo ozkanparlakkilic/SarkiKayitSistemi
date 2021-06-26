@@ -1,2 +1,2 @@
 # SarkiKayitSistemi
-Kullanıcı Sarkı ekleyip üncelleyip vehayut silebilir
+Kullanıcı Sarkı ekleyip güncelleyip vehayut silebilir
